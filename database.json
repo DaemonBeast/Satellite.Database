@@ -1,10 +1,10 @@
 {
+    "version": 1,
     "mods": {
         "reactor": {
-            "provider": {
-                "type": "link",
-                "value": "https://raw.githubusercontent.com/DaemonBeast/test-repo/main/mod.json"
-            }
+            "mod_file_urls": [
+                "https://raw.githubusercontent.com/DaemonBeast/test-repo/main/mod.json"
+            ]
         }
     }
 }
